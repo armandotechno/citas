@@ -21,7 +21,7 @@ const Formulario = () => {
     }
 
     //Extraer los valores
-    const {mascota, propietario, fecha, hora, sintomas} = citas;
+    const {mascota, propietario, fecha, hora, sintomas} = cita;
 
     return (
         <Fragment>
